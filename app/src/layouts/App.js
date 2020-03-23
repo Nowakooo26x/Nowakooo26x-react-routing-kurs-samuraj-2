@@ -8,6 +8,7 @@ import Footer from './Footer';
 
 function App() {
   return (
+    <Router>
     <div className="app">
       <header>
         {<Header/>}
@@ -24,6 +25,7 @@ function App() {
         {<Footer/>}
       </footer>
     </div>
+    </Router>
   );
 }
 
