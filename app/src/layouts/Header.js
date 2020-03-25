@@ -10,7 +10,6 @@ import img3 from '../img/3.jpg';
 const Header = () => {
     return(
         <>
-        <img src={img1} alt="krajobraz"/>
         <Switch>
             <Route path="/" exact render={()=>(
                 <img src={img1} alt="krajobraz"/>
