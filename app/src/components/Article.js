@@ -1,11 +1,23 @@
 import React from 'react';
 
-const Article = (props) => {
+const Article = ({title, author, text}) => {
+    const styles = {
+        marginTop: 40
+    }
+
+
     return(
-        <article>
-            <h3>{props.title}</h3>
-            <p>{props.author}</p>
-            <p>{props.text}</p>
+        <article style={styles}>
+            <h3 style={{
+                marginBottom: 3,
+                textTransform: "uppercase"
+            }}>{title}</h3>
+            <span style={{
+                display: "block",
+                marginBottom: 10,
+                fontSize: 12
+            }}>{author}</span>
+            <p style={{ fontSize: 18}}>{text}</p>
         </article>
     );
 
