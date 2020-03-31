@@ -6,7 +6,7 @@ import Navigation from './Navigation';
 import Page from './Page';
 import Footer from './Footer';
 
-class App extends Comment{
+class App extends React.Component{
   render(){
   return (
     <Router basename={process.env.PUBLIC_URL}>
