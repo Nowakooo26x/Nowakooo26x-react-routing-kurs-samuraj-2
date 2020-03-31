@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/css/main.39b29e6b.chunk.css",
-    "main.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.909f1a5f.chunk.js",
-    "main.js.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.909f1a5f.chunk.js.map",
+    "main.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.def066ee.chunk.js",
+    "main.js.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.def066ee.chunk.js.map",
     "runtime-main.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/runtime-main.7b4db242.js",
     "runtime-main.js.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/runtime-main.7b4db242.js.map",
-    "static/js/2.f13af4c2.chunk.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.f13af4c2.chunk.js",
-    "static/js/2.f13af4c2.chunk.js.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.f13af4c2.chunk.js.map",
+    "static/js/2.a9af5a2c.chunk.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.a9af5a2c.chunk.js",
+    "static/js/2.a9af5a2c.chunk.js.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.a9af5a2c.chunk.js.map",
     "index.html": "/Nowakooo26x-react-routing-kurs-samuraj-2/index.html",
-    "precache-manifest.19e894cf5a4bba900ad7b1117deeb4eb.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/precache-manifest.19e894cf5a4bba900ad7b1117deeb4eb.js",
+    "precache-manifest.2870ecc79ff6be4440a6417a4103373a.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/precache-manifest.2870ecc79ff6be4440a6417a4103373a.js",
     "service-worker.js": "/Nowakooo26x-react-routing-kurs-samuraj-2/service-worker.js",
     "static/css/main.39b29e6b.chunk.css.map": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/css/main.39b29e6b.chunk.css.map",
-    "static/js/2.f13af4c2.chunk.js.LICENSE.txt": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.f13af4c2.chunk.js.LICENSE.txt",
+    "static/js/2.a9af5a2c.chunk.js.LICENSE.txt": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.a9af5a2c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/media/1.27492ac5.jpg",
     "static/media/2.jpg": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/media/2.8f5e6990.jpg",
     "static/media/3.jpg": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/media/3.68a77fcb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b4db242.js",
-    "static/js/2.f13af4c2.chunk.js",
+    "static/js/2.a9af5a2c.chunk.js",
     "static/css/main.39b29e6b.chunk.css",
-    "static/js/main.909f1a5f.chunk.js"
+    "static/js/main.def066ee.chunk.js"
   ]
 }

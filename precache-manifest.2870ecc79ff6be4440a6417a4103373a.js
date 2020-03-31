@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e9a0aec0b7623b87c9affbef31e4b47",
+    "revision": "7c05b21706c2a1caa4d4909572f86c57",
     "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/index.html"
   },
   {
-    "revision": "7130009506ce8ef6d6af",
+    "revision": "b9bd61dfedfda3ca38a4",
     "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/css/main.39b29e6b.chunk.css"
   },
   {
-    "revision": "6f27118bbf167090dc59",
-    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.f13af4c2.chunk.js"
+    "revision": "38786daf0e50c227a253",
+    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.a9af5a2c.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.f13af4c2.chunk.js.LICENSE.txt"
+    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/2.a9af5a2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7130009506ce8ef6d6af",
-    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.909f1a5f.chunk.js"
+    "revision": "b9bd61dfedfda3ca38a4",
+    "url": "/Nowakooo26x-react-routing-kurs-samuraj-2/static/js/main.def066ee.chunk.js"
   },
   {
     "revision": "62bdcfa7a1b5aa6c9715",
