@@ -25,7 +25,7 @@ const article = [
 const HomePage = () => {
 
     const articleList = article.map(art => (
-        <Article key={article.id} {...art}/>
+        <Article key={art.id} {...art}/>
     ))
 
     return(

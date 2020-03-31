@@ -3,6 +3,7 @@ import {Route, Redirect} from 'react-router-dom';
 
 const permission = false;
 
+
 const AdminPage = () => {
     return(
         <Route render={()=>(
