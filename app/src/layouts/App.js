@@ -6,9 +6,10 @@ import Navigation from './Navigation';
 import Page from './Page';
 import Footer from './Footer';
 
-function App() {
+class App extends Comment{
+  render(){
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
     <div className="app">
       <header>
         {<Header/>}
@@ -26,7 +27,7 @@ function App() {
       </footer>
     </div>
     </Router>
-  );
+  )};
 }
 
 export default App;
