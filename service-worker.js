@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nowakooo26x-react-routing-kurs-samuraj-2/precache-manifest.e492025099e159d36bb2653f271ca53c.js"
+  "/Nowakooo26x-react-routing-kurs-samuraj-2/precache-manifest.19e894cf5a4bba900ad7b1117deeb4eb.js"
 );
 
 self.addEventListener('message', (event) => {
